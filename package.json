@@ -1,0 +1,29 @@
+{
+  "name": "aly-cli",
+  "version": "1.0.0",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martaly/Aly-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martaly/Aly-CLI/issues"
+  },
+  "homepage": "https://github.com/Martaly/Aly-CLI#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.0.0",
+    "country-list": "^2.2.0",
+    "figlet": "^1.4.0",
+    "ora": "^4.0.4"
+  }
+}
