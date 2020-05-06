@@ -1,4 +1,4 @@
-<bold>HOLIDATES</bold>
+<strong><bold>HOLIDATES</bold></strong>
 
 To know the vacation days according to a country and a year.
 
