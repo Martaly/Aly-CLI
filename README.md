@@ -5,7 +5,7 @@ To know the vacation days according to a country and a year.
 --> Instalaltion
 
 
-npm : @martaly/holidates
+    npm : @martaly/holidates
 
 
 
