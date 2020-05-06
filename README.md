@@ -2,7 +2,7 @@
 
 To know the vacation days according to a country and a year.
 
-<bold>--> Instalaltion</bold>
+--> Instalaltion
 
 
     npm : @martaly/holidates
@@ -11,7 +11,7 @@ To know the vacation days according to a country and a year.
 
 
 
-<bold>--> Find the days off for the current year:</bold>
+--> Find the days off for the current year:
 
 
     $ holidates Belgium
@@ -20,7 +20,7 @@ To know the vacation days according to a country and a year.
     
     
     
-<bold>--> Find the days off for a specific year:</bold>
+--> Find the days off for a specific year:
 
 
     $ holidates Belgium 2006
@@ -28,4 +28,4 @@ To know the vacation days according to a country and a year.
    
    
    
-<bold>~~ Enjoy ~~</bold>
+~~ Enjoy ~~
